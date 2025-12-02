@@ -1,0 +1,24 @@
+{
+  "name": "practica_examen_final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blaze-darck/practica_Examen_Final.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blaze-darck/practica_Examen_Final/issues"
+  },
+  "homepage": "https://github.com/blaze-darck/practica_Examen_Final#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
